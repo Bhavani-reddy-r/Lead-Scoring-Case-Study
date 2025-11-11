@@ -12,10 +12,17 @@ The company receives hundreds of leads daily but lacks a system to rank them. Th
 - Jupyter Notebook
 - Matplotlib, Seaborn
 
-## 📊 Key Results & Visualizations
-- Achieved an accuracy of XX% and ROC-AUC of YY.
-- Feature importance chart showing top predictors.
-- Confusion matrix and precision-recall curve.
+#### 🚀 Model Performance
+- **Accuracy:** 79%
+- **ROC-AUC Score:** 85%
 
-## ▶️ How to Run the Code
-1. Clone the repository:
+#### 🔍 Top Predictors
+- Total Time Spent on Website
+- Lead Origin
+- Last Activity
+
+#### 📈 Visual Insights
+- ✅ Confusion Matrix: Shows strong classification of converted vs non-converted leads.
+- 📊 Precision-Recall Curve: Indicates reliable performance for lead prioritization.
+- 🌟 Feature Importance Chart: Highlights actionable variables for business targeting.
+
